@@ -20,7 +20,7 @@ See [common keywords](/reference/plugins/common) for more information about thes
         organize:
           '*png' : images/
           launch.wrapper: usr/bin/launcher
-        snap:
+        prime:
           - usr
 
 [More examples on GitHub](https://github.com/search?o=desc&q=filename%3Asnapcraft.yaml+%22plugin%3A+dump%22+&s=indexed&type=Code&utf8=%E2%9C%93)
